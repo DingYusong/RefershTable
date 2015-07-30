@@ -1,0 +1,6 @@
+framework module RefershTable {
+  umbrella header "Pods-RefershTable_Tests-RefershTable-umbrella.h"
+
+  export *
+  module * { export * }
+}

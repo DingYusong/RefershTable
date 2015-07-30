@@ -1,0 +1,14 @@
+PODS:
+  - RefershTable (0.1.0)
+
+DEPENDENCIES:
+  - RefershTable (from `../`)
+
+EXTERNAL SOURCES:
+  RefershTable:
+    :path: ../
+
+SPEC CHECKSUMS:
+  RefershTable: bac706d876771f68d531346831523de3c7c7fd8c
+
+COCOAPODS: 0.37.2
